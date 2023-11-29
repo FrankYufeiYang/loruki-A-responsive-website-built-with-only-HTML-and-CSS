@@ -1,9 +1,5 @@
 # A responsive multi-media website built with only HTML and CSS
 
-
-
-
-
 ## Features
 
 - Responsive and elegant layouts for mobile phone, tablet or desktop
@@ -14,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://frankyufeiyang.github.io/loruki-website/index.html)
+<a href="https://frankyufeiyang.github.io/loruki-website/index.html" target="_blank">Live Demo Link</a>
 
 ---
 
@@ -24,5 +20,3 @@
 ![feature-image](./readme/feature.png)
 
 ---
-
-
