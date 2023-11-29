@@ -1,4 +1,4 @@
-# A responsive website built with only HTML and CSS
+# A responsive multi-media website built with only HTML and CSS
 
 
 
