@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://azateser.github.io/little-lemon-finalProject/build)
+[Live Demo Link](https://frankyufeiyang.github.io/loruki-website/index.html)
 
 ---
 
