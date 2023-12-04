@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-<a href="https://frankyufeiyang.github.io/loruki-website/index.html" target="_blank">Live Demo Link</a>
+<a href="https://frankyufeiyang.github.io/loruki-A-responsive-website-built-with-only-HTML-and-CSS/" target="_blank">Live Demo Link</a>
 
 ---
 
